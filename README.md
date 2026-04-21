@@ -1,2 +1,0 @@
-# my-vercel-website
-no
